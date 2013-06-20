@@ -1,0 +1,13 @@
+{
+  "name": "uirouterTest1",
+  "version": "0.1.0",
+  "main": "src/index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "ui-router": "~0.0.1"
+  }
+}
